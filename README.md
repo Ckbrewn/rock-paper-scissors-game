@@ -21,6 +21,7 @@ Git and GitHub
 Third party code
 Font Awesome
 Google Fonts
+Photoshop (create skin tone)
 
 Outcome
 
@@ -43,3 +44,7 @@ What could be improved
 
 Better mobile support.
 Cleaner code.
+
+
+<img width="1418" alt="Screenshot 2024-04-08 at 8 22 55 PM" src="https://github.com/Ckbrewn/rock-paper-scissors-game/assets/93859178/58cfd650-2a52-449c-8232-9f8b3fc3d00c">
+
